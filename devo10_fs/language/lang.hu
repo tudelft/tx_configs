@@ -1,0 +1,655 @@
+﻿Magyar
+:# Channels
+Csatornák
+:%d bytes left
+%d bájt maradt
+:1 sec
+1 mp
+:1-to-1
+1 az 1
+:10 sec
+10 mp
+:11 Point
+11 pont
+:13 Point
+13 pont
+:3 Point
+3 pont
+:30 sec
+30 mp
+:4Ch w/ Dual-Rates
+4 csat. + DR
+:5 Point
+5 pont
+:5 sec
+5 mp
+:5+1
+5+1
+:6+1
+6+1
+:60 sec
+60 mp
+:6Ch Airplane
+6 csat. repülőgép
+:6Ch Helicopter
+6 csat. helikopter
+:7 Point
+7 pont
+:9 Point
+9 pont
+:ABSVAL
+ABSZ.É.
+:AIL
+AIL
+:AIL DR
+AIL DR
+:AIL Inv
+Csűrés inv.
+:AIL Mix
+Csűrés mix
+:AUX2
+AUX2
+:AUX4
+AUX4
+:AUX5
+AUX5
+:About Deviation
+Deviation névjegye
+:Add
+Új
+:Advanced
+Haladó
+:Airplane
+Repülőgép
+:Alarm intvl
+Riaszt. int.
+:All
+Mind
+:Altitude
+Magasság
+:Auto
+Auto
+:Backlight
+Fényerő
+:Bad/missing\nprotocol modules!
+Hibás/hiányzó\nprotokoll modulok!
+:Bar
+Oszlop
+:Bargraph
+Oszlopdiagr.
+:Batt alarm
+Fesz. riaszt.
+:Battery too low,\ncan't save!
+Tápfesz. túl alacsony,\nnem tudok menteni!
+:Big-box
+Nagy doboz
+:Bind
+Csatol
+:Binding %s...\nPress ENT to stop
+Kapcsolódás %s...\nENT megállítani
+:Box
+Doboz
+:Buzz settings
+Hang beállítások
+:Buzz volume
+Hangerő
+:COL
+Kollektív
+:COL Inv
+Koll. inv.
+:COL Limit
+Koll. limit
+:COL Mix
+Koll. mix
+:CYC
+CYC
+:Calibrate
+Kalibrálás
+:Calibration done.
+Kalibrálás kész.
+:Cancel
+Mégsem
+:Celsius
+°C
+:Center PW
+Közép imp.
+:Center all \nsticks and knobs\nthen press ENT
+Állítsa középre a \nbotkormányokat és potikat\nés nyomjon ENT-t
+:Ch
+Cs
+:Ch%d
+Cs%d
+:Chan mode
+Csat. mód
+:Change
+Váltás
+:Channel
+Csatorna
+:Channel monitor
+Csatornák
+:Channel output
+Csatornák
+:Complex
+Komplex
+:Configure
+Konfigurálás
+:Contrast
+Kontraszt
+:Control
+Kontroll
+:Copy To
+Másolás
+:Copy To...
+Másolás...
+:Curve
+Görbe
+:Cyclic1
+Ciklikus1
+:Cyclic2
+Ciklikus2
+:Cyclic3
+Ciklikus3
+:D/R & Exp
+D/R & Expó
+:D/R&Exp -AIL
+D/R&Expó -AIL
+:D/R&Exp -ELE
+D/R&Expó -ELE
+:D/R&Exp -RUD
+D/R&Expó -RUD
+:DR
+DR
+:Datalog
+Adat napló
+:Deadband
+Holtsáv
+:Default
+Default
+:Delete
+Törlés
+:Delta PW
+Kitérés
+:Deviation FW version:
+Deviation verzió:
+:Dimmer target
+Alvó fényerő
+:Dimmer time
+Alvó mód ideje
+:Dn
+Le
+:Do you really want\nto reset the\n permanent timer %d?
+Valóban nullázni\nakarja az üzemidő\nidőzítő %d-t?
+:Down
+Le
+:ELE
+ELE
+:ELE DR
+ELE DR
+:ELE Inv
+Magas. inv.
+:ELE Mix
+Magas. mix
+:EXPO %d
+EXP. %d
+:Enable
+Engedélyez
+:Enter
+Enter
+:Exit
+Exit
+:Expo&DR
+Expó+DR
+:Extend
+Kiterj.
+:FMODE
+FMODE
+:Fades
+Eltűnés
+:Fahren
+°F
+:Fail-safe
+Hibaérték
+:File
+Fájl
+:Fixed
+Fix
+:Fixed ID
+Fix ID
+:Fly mode
+Rep. mód
+:Foot
+Láb
+:Frame Size
+Keret
+:GEAR
+GEAR
+:GPS
+GPS
+:GPS Alt.
+GPS magas.
+:GPS Coords
+GPS koord.
+:GPS Speed
+GPS sebes.
+:GPS Time
+GPS idő
+:Generic settings
+Általános beállítások
+:Gyro sense
+Giró
+:H
+H
+:H-trim
+Függ. trim
+:Heli
+Heli
+:Heli/Standard GUI
+Heli/Szokásos felület
+:Helicopter
+Helikopter
+:High-Rate
+Magas
+:Hold position
+TH érték
+:Holds
+Tartás
+:Hour
+Óra
+:Icon
+Ikon
+:Idle Up 1
+Alapjárat 1
+:Idle Up 2
+Alapjárat 2
+:Input
+Bemenet
+:Inverted
+Inverz
+:L
+L
+:LCD settings
+LCD beállítások
+:LEFT_H
+BAL_V
+:LEFT_V
+BAL_F
+:LIN
+LIN
+:Language
+Nyelv
+:Latitude
+Szélesség
+:Layout: Long-Press ENT
+Elrendezés: Hosszú ENT
+:Left
+Bal
+:Length
+Hossz
+:Linked
+Csatolt
+:Load
+Betöltés
+:Load...
+Betöltés...
+:Longitude
+Hosszúság
+:Loss
+Vesztés
+:Low-Rate
+Alacsony
+:M
+M
+:MIX
+MIX
+:Main menu
+Főmenü
+:Main page
+Főablak
+:Main page config
+Főablak konfig.
+:Max Limit
+Max korlát
+:Menu
+Menü
+:Meter
+Méter
+:Mid-Rate
+Közepes
+:Min Limit
+Min korlát
+:Min/Max
+Min/Max
+:Minute
+Perc
+:Mixer
+Mixer
+:Mixer GUI
+Felület
+:Mixers
+Mixerek
+:Mode
+Mód
+:Mode %d
+Mód %d
+:Model
+Modell
+:Model menu
+Modell menü
+:Model name
+Modell név
+:Model needs reset\nfor standard mixer
+A modellt törölni kell\na szokásos felülethez
+:Model setup
+Modell konfig.
+:Model type
+Modell típus
+:Momentary
+Pillanat k.
+:Move sticks and knobs\nto max & min positions\nthen press ENT
+Mozgassa a botokat és potikat\nmin-tól max-ig\nés nyomjon ENT-t
+:Mux
+Művelet
+:Neg
+Neg.
+:New
+Új
+:No
+Nem
+:No Trim
+Nincs Trim
+:None
+Nincs
+:Normal
+Normál
+:Notch PW
+Szünet
+:Num Channels
+Csat. száma
+:Off
+Ki
+:Offset
+Eltolás
+:Ok
+Ok
+:On
+Be
+:On/Off
+Ki/Be
+:PIT
+PIT
+:PIT Mix
+Koll. mix
+:PPM
+PPM
+:PPM In
+PPM be
+:PPM%d
+PPM%d
+:PPMIn Cfg (Extend)
+PPM be konf. (Kiterj.)
+:Page
+Oldal
+:Pitch curves
+Állásszög görbék
+:Plane
+Repülő
+:Point
+Pont
+:Pos
+Poz.
+:Pos/Neg
+Poz/Neg
+:Position %d
+Pozíció %d
+:Prealert intvl
+Előjelz. interv.
+:Prealert time
+Előjelz. idő
+:Press ENT to change
+Változtatáshoz ENT
+:Press ENT to copy to
+Másolás ENT
+:Press ENT to load
+Betöltés ENT
+:Press ENT to turn \nUSB drive
+ENT-el kapcsolhatja \naz USB-t
+:PwrDn alert
+Kikapcs. r.
+:PwrOn alarm
+Bekapcs. r.
+:RIGHT_H
+JOBB_V
+:RIGHT_V
+JOBB_F
+:RPM
+Ford.
+:RUD
+RUD
+:RUD DR
+RUD DR
+:Rate
+Fok
+:Re-Init
+Csatol
+:Reset
+Törlés
+:Reset sw
+Törlés k.
+:Reverse
+Invertálás
+:Reversed
+Inverz
+:Revert
+Mégsem
+:Right
+Jobb
+:Safe Val
+Bizt. érték
+:Safety
+Biztonság
+:Save
+Mentés
+:Scale
+Skála
+:Scale%s
+Skála%s
+:Second
+Másodp.
+:Select
+Kiválaszt
+:Servo
+Szervó
+:Set
+Beállítás
+:Set permanent timer
+Üzemidő beállítása
+:Set to
+Beállít
+:Simple
+Egysz.
+:Simple 4 Channel
+Egyszerű 4 csat.
+:Small-box
+Kis doboz
+:Smooth
+Simítás
+:Speed
+Sebesség
+:Src
+Forrás
+:Standard
+Szokásos
+:Start
+Start
+:Step
+Lépés
+:Stick
+Bot
+:Stick input
+Bemenetek
+:Stick mode
+Mód
+:Sticks
+Botkormány
+:Subtrim
+Subtrim
+:Swash
+Imbolygó
+:SwashType
+Imbolygó
+:Switch
+Kapcsoló
+:Switch assignment
+Kapcsoló összerendelés
+:Switch1
+Kapcs.1
+:Switch2
+Kapcs.2
+:Symmetric
+Szimmetr.
+:THR
+THR
+:TRIMLH+
+TRIM_BV+
+:TRIMLH-
+TRIM_BV-
+:TRIMLV+
+TRIM_BF+
+:TRIMLV-
+TRIM_BF-
+:TRIMRH+
+TRIM_JV+
+:TRIMRH-
+TRIM_JV-
+:TRIMRV+
+TRIM_JF+
+:TRIMRV-
+TRIM_JF-
+:TRIM_L+
+TRIM_B+
+:TRIM_L-
+TRIM_B-
+:TRIM_R+
+TRIM_J+
+:TRIM_R-
+TRIM_J-
+:TelemRPM
+TelemFord
+:TelemT
+TelemHőm
+:TelemV
+TelemFesz
+:Telemetry
+Telemetria
+:Telemetry config
+Telemetria konfig.
+:Telemetry monitor
+Telemetria adatok
+:Telemetry settings
+Telemetria beállítások
+:Temp
+Hőm.
+:Temperature
+Hőmérséklet
+:Template..
+Sablon...
+:Thr hold
+Gáz kapcsoló
+:Throttle curves
+Gáz görbék
+:Throttle hold
+Gáz kapcsoló
+:Time
+Idő
+:Timer
+Időzítő
+:Timer settings
+Időzítő beállítások
+:Timer%d
+Időzítő %d
+:Timers
+Időzítők
+:Timeup intvl
+Ismétlés interv.
+:Toggle
+Váltó kapcs.
+:Touch to Lock
+Érintse meg a zároláshoz
+:Touch to Unlock
+Érintse meg a feloldáshoz
+:Trainer Cfg (Channel)
+Oktató konf. (Csatorna)
+:Trainer Cfg (Stick)
+Oktató konf. (Bot)
+:Trainer Sw
+Oktató kapcs.
+:Transmitter config
+Távirányító konfig.
+:Transmitter menu
+Távirányító menü
+:Travel adjust
+Szervóút állítás
+:Trim
+Trim
+:Trim +
+Trim +
+:Trim -
+Trim -
+:Trim Step
+Trim lépés
+:Trimbar
+Trim
+:Trims
+Trim-ek
+:Tx power
+Kimenő telj.
+:USB
+USB
+:Unknown
+Ismeretlen
+:Up
+Fel
+:V-trim
+Vsz. trim
+:Value
+Érték
+:Vibration
+Rezgés
+:Virt
+Virt.
+:Volt
+Fesz.
+:Welcome
+Üdvözlet
+:Yes
+Igen
+:Zero/Max
+Nulla/Max
+:\n%d seconds left
+\n%d másodperc van hátra
+:add
+hozzáad
+:cntdn-prop
+Gázf. időz.
+:countdown
+Időzítő
+:delay
+késlelt.
+:is not supported
+nem támogatott
+:is turned off
+ki van kapcsolva
+:max
+max
+:min
+min
+:mult
+szoroz
+:permanent
+Üzemidő
+:replace
+cserél
+:stop-prop
+Gázf. stop.
+:stopwatch
+Stopper

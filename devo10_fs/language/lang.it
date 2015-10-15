@@ -1,0 +1,537 @@
+﻿Italiano
+: is %d%%,\nsafe value = %d%%
+ = %d%%, \nvalore sicuro  = %d%%
+:# Channels
+# Canali
+:1-to-1
+1 a 1
+:11 Point
+11 Punti
+:13 Point
+13 Punti
+:3 Point
+3 Punti
+:4Ch w/ Dual-Rates
+4Ch con DualRate
+:5 Point
+5 Punti
+:5+1
+5+1
+:6+1
+6+1
+:6Ch Airplane
+Aereo 6Ch
+:6Ch Helicopter
+Elicottero 6Ch
+:7 Point
+7 Punti
+:9 Point
+9 Punti
+:ABSVAL
+V_ASSOL
+:AIL
+ALET
+:AIL DR
+DR ALET
+:AIL Inv
+ALET Inv
+:AIL Mix
+ALETT Mix
+:AUX2
+AUX2
+:AUX4
+AUX4
+:AUX5
+AUX5
+:About Deviation
+A proposito di Deviation
+:Advanced
+Avanzato
+:Airplane
+Aereo
+:Alarm intvl
+Allarme intvl
+:Altitude
+Altitudine
+:Auto
+Auto
+:Backlight
+Luminosità
+:Bad/missing\nprotocol modules!
+Moduli protocollo errati o assenti!
+:Batt alarm
+Allarme batteria
+:Battery too low,\ncan't save!
+Batteria troppo scarica,\nnon posso salvare!
+:Bind
+Bind
+:Binding %s...\nPress ENT to stop
+Binding %s...\nPremi ENT per fermare
+:Buzz settings
+Configurazione del Buzz
+:Buzz volume
+Volume del Buzzer
+:COL
+Collet.
+:COL Inv
+Inv.Collet.
+:COL Limit
+Limite Collet.
+:CYC
+Ciclico
+:Calibrate
+Calibrazione
+:Calibration done.
+Calibrazione completata.
+:Cancel
+Cancella
+:Celsius
+Celsius
+:Center PW
+Centro PW
+:Center all \nsticks and knobs\nthen press ENT
+Centra tutti gli\nsticks e le manopole\nquindi premi ENT
+:Ch
+Ch
+:Chan mode
+Modo di Canale
+:Change
+Cambia
+:Channel
+Canale
+:Channel monitor
+Monitor di Canale
+:Channel output
+Canale di uscita
+:Complex
+Complesso
+:Configure
+Configura
+:Contrast
+Contrasto
+:Copy To
+Copia su
+:Copy To...
+Copia su...
+:Curve
+Curva
+:Cyclic1
+Ciclico1
+:Cyclic2
+Ciclico2
+:Cyclic3
+Ciclico3
+:D/R & Exp
+D/R & Esp.
+:D/R&Exp -AIL
+D/R & Esp.-ALET
+:D/R&Exp -ELE
+D/R & Esp.-ELEV
+:D/R&Exp -RUD
+D/R & Esp.-TIMONE
+:DR
+DR
+:Deadband
+Zona morta
+:Default
+Default
+:Delta PW
+Delta PW
+:Deviation FW version:
+Versione del FW Deviation:
+:Dimmer target
+Dest. del Dimmer
+:Dimmer time
+Durata del Dimmer
+:Dn
+Dn
+:Do you really want\nto reset the\n permanent timer %d?
+Vuoi veramente resettare il timer permanente %d?
+:Down
+Giu*
+:ELE
+ELEV
+:ELE DR
+DR ELEV
+:ELE Inv
+Inv ELEV
+:ELE Mix
+Mix ELEV
+:EXPO %d
+Esp. %d
+:Enter
+Entra
+:Exit
+Esci
+:Expo&DR
+Esp.&DR
+:FMODE
+Modo di volo
+:Fahren
+Fahren
+:Fail-safe
+Fail-safe
+:File
+File
+:Fixed
+Fisso
+:Fixed ID
+ID Fisso
+:Fly mode
+Modo di volo
+:Foot
+Piede
+:Frame Size
+Dimensione del Frame
+:GEAR
+CARRELLO
+:GPS
+GPS
+:Generic settings
+Settaggi generici
+:Gyro sense
+Sens. giroscopio
+:H
+H
+:Heli
+Eli
+:Heli/Standard GUI
+GUI Eli/Standard
+:Helicopter
+Elicottero
+:High-Rate
+Rate Alto
+:Hold position
+Posizione di Hold
+:Icon
+Icona
+:Idle Up 1
+Idle Up 1
+:Idle Up 2
+Idle Up 2
+:Input
+Ingresso
+:Inverted
+Inverso
+:L
+L
+:LCD settings
+Parametri LCD
+:LEFT_H
+SINISTRA_H
+:LEFT_V
+SINISTRA_V
+:LIN
+LIN
+:Language
+Lingua
+:Latitude
+Latitudine
+:Left
+Sinistra
+:Length
+Lunghezza
+:Linked
+Linkato
+:Load
+Carica
+:Load...
+Carica...
+:Longitude
+Longitudine
+:Low-Rate
+Rate basso
+:M
+M
+:MIX
+MIX
+:Main menu
+Menu* principale
+:Main page
+Pagina principale
+:Main page config
+Pagina di Configurazione
+:Max Limit
+Limite Max
+:Menu
+Menu
+:Meter
+Metro
+:Mid-Rate
+Rate Medio
+:Min Limit
+Limite Min
+:Min/Max
+Min/Max
+:Mixer
+Mixer
+:Mixer GUI
+Mixer GUI
+:Mixers
+Mixers
+:Mode
+Modo
+:Mode %d
+Modo %d
+:Model menu
+Menu del modello
+:Model name
+Nome del modello
+:Model needs reset\nfor standard mixer
+Il modello deve essere\nresettato se vuoi i mixer std.
+:Model setup
+Setup del modello
+:Model type
+Tipo del modello
+:Move sticks and knobs\nto max & min positions\nthen press ENT
+Muovi gli stick e le manopole\nfino al max e al min\nquindi premi ENT
+:Mux
+Operazione
+:Neg
+Neg.
+:New
+Nuovo
+:No Trim
+No Trim
+:None
+Nessuno
+:Normal
+Normale
+:Notch PW
+Notch PW
+:Off
+Off
+:Offset
+Offset
+:Ok
+Ok
+:On
+On
+:PIT
+PASSO
+:PIT Mix
+Mix PASSO
+:Page
+Pagina
+:Pitch curves
+Curva del passo
+:Plane
+Aero
+:Point
+Punto
+:Pos
+Pos.
+:Pos/Neg
+Pos./Neg.
+:Position %d
+Posizione %d
+:Prealert intvl
+Intervallo di preallarme
+:Prealert time
+Tempo di preallarme
+:Press ENT to change
+Premi ENT per cambiare
+:Press ENT to copy to
+Premi ENT per copiare su
+:Press ENT to load
+Premi ENT per caricare
+:Press ENT to turn \nUSB drive
+Premi ENT per attivare il drive USB
+:PwrDn alert
+Allarme spegnimento
+:RIGHT_H
+DESTRA_H
+:RIGHT_V
+DESTRA_V
+:RPM
+RPM
+:RUD
+TIMONE
+:RUD DR
+DRTIMONE
+:Re-Init
+Reinizializza
+:Reset
+Reset
+:Reset sw
+Reset del SW
+:Reverse
+Inverso
+:Reversed
+Rovesciato
+:Revert
+Inverti
+:Right
+Destra
+:Safe Val
+Val.Sicuro
+:Safety
+Sicurezza
+:Save
+Salva
+:Scale
+Scala
+:Scale%s
+Scala%s
+:Servo
+Servo
+:Simple
+Sempl.
+:Simple 4 Channel
+4Ch. Semplici
+:Speed
+Velocità
+:Src
+Sorgente
+:Standard
+Standard
+:Start
+Avvia
+:Step
+Passo
+:Stick input
+posizione dello stick
+:Stick mode
+Modo di volo
+:Sticks
+Sticks
+:Subtrim
+Subtrim
+:Swash
+Piatto
+:SwashType
+Piatto
+:Switch
+Interrutore
+:Switch assignment
+Assegnazione interruttore
+:Switch1
+Interr1
+:Switch2
+Interr2
+:Symmetric
+Simmetrico
+:THR
+GAS
+:TRIMLH+
+TRIMSO+
+:TRIMLH-
+TRIMSO-
+:TRIMLV+
+TRIMSV+
+:TRIMLV-
+TRIMSV-
+:TRIMRH+
+TRIMDO+
+:TRIMRH-
+TRIMDO-
+:TRIMRV+
+TRIMDV+
+:TRIMRV-
+TRIMDV-
+:TRIM_L+
+TRIM_S+
+:TRIM_L-
+TRIM_S-
+:TRIM_R+
+TRIM_D+
+:TRIM_R-
+TRIM_D-
+:TelemRPM
+TelemRPM
+:TelemT
+TelemT
+:TelemV
+TelemV
+:Telemetry
+Telemetria
+:Telemetry config
+Config. telemetria
+:Telemetry monitor
+Monitor telemetria
+:Telemetry settings
+Settaggi telemetria
+:Temp
+Temp
+:Temperature
+Temperatura
+:Template..
+Modello..
+:Thr hold
+Hold del gas
+:Throttle curves
+Curve del gas
+:Throttle hold
+Hold del gas
+:Time
+Tempo
+:Timer
+Timer
+:Timer settings
+Config. Timer
+:Timer%d
+Timer%d
+:Timers
+Timers
+:Timeup intvl
+Durata
+:Touch to Lock
+Tocca per bloccare
+:Touch to Unlock
+Tocca per sbloccare
+:Transmitter config
+Config. trasmittente
+:Transmitter menu
+Menu della Trasmittente
+:Travel adjust
+Regolazione dell'escursione
+:Trim
+Trim
+:Trim +
+Trim +
+:Trim -
+Trim -
+:Trim Step
+Trim fine
+:Trims
+Trim
+:Tx power
+Potenza di TX
+:USB
+USB
+:Unknown
+Sconosciuto
+:Up
+Su*
+:Value
+Valore
+:Vibration
+Vibrazione
+:Virt
+Virt
+:Volt
+Volt
+:Zero/Max
+Zero/Max
+:\n%d seconds left
+\n%d secondi a sinistra
+:add
+aggiungi
+:countdown
+countdown
+:is not supported
+non è supportato
+:is turned off
+è spento
+:max
+max
+:min
+min
+:mult
+Mult.
+:permanent
+permanente
+:replace
+Sostituisci
+:stopwatch
+Cronometro
