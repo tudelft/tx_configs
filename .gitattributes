@@ -1,7 +1,22 @@
 # Set the default behavior, in case people don't have core.autocrlf set.
-* text eol=lr
+* text eol=lf
 
 # Explicitly declare text files you want to always be normalized and converted
 # to native line endings on checkout.
 *.ini text eol=lf
+*.afr text eol=lf
+*.cn text eol=lf
+*.dut text eol=lf
+*.es text eol=lf
+*.fr text eol=lf
+*.ger text eol=lf
+*.hu text eol=lf
+*.it text eol=lf
+*.ro text eol=lf
+*.ru text eol=lf
+*.tw text eol=lf
+
+*.bmp binary
+*.zip binary
+*.fon binary
 
