@@ -15,8 +15,10 @@
 *.ro text eol=lf
 *.ru text eol=lf
 *.tw text eol=lf
+*.gitattributes text eol=lf
 
 *.bmp binary
 *.zip binary
 *.fon binary
+*.jar binary
 
