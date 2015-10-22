@@ -15,7 +15,8 @@
 *.ro text eol=lf
 *.ru text eol=lf
 *.tw text eol=lf
-*.gitattributes text eol=lf
+*.gitattributes text eol=native
+*.py text eol=native
 
 *.bmp binary
 *.zip binary
