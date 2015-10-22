@@ -1,5 +1,8 @@
 import glob
 files = glob.glob("./devo10_fs/models/*.ini")
+files += glob.glob("./devo10_fs/layout/*.ini")
+files += glob.glob("./devo10_fs/media/*.ini")
+files += glob.glob("./devo10_fs/template/*.ini")
 files += glob.glob("./devo10_fs/*.ini")
 
 for f in files:
