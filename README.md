@@ -1,6 +1,6 @@
 # About
 
-This repo contain all files and infromation to make you RC TX adhere to the MAVLAb TX standards. It containss e.g. RC transmitters configurations for devices used in the Lab.
+This repo contain all files and infromation to make you RC TX adhere to the **MAVLAb TX standards**. It contains e.g. the correct RC transmitter configuration for devices used in the Lab.
 
 # Bonus
 
