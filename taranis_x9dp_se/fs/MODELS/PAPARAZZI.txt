@@ -1,0 +1,3 @@
+TX Charged
+Test Manual
+Test Mode1
